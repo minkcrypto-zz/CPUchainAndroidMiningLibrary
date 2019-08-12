@@ -1,0 +1,2 @@
+# CPUchainAndroidMiningLibrary
+CPUchainAndroidMiningLibrary
